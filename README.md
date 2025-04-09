@@ -18,20 +18,6 @@
 
 ---
 
-## 🗂️ 실험 항목 구조
-
-각 문제는 **폴더 단위로 분류**되며, 각 폴더 안에는 다음과 같은 구성 요소가 포함됩니다:
-
-- `README.md` — 실험 주제 설명, 배경, 발생 조건, 실험 목적
-- `test_project` — 문제가 발생한 실제 어도비 프로젝트 파일 (예: `.aep`, `.prproj`)
-- `screenshots` — 문제를 시각적으로 보여주는 스크린샷
-- `recordings` — 실시간 재현 영상 (가능한 경우)
-- `results.md` — 실험 방법, 환경, 단계별 결과, 해결 가능성 분석
-- `workarounds.md` — 회피 방법, 대체 기능, 임시 조치 등
-- `references.md` — Adobe Forum, Reddit, Stack Overflow 등에서 참고한 글
-
----
-
 ---
 
 ## 🧾 실험 환경 명세
