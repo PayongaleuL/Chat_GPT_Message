@@ -39,17 +39,11 @@
 실험은 다음과 같은 환경에서 이루어졌습니다 (버전에 따라 차이 발생 가능):
 
 - OS:
-  - Windows 11 (22H2)
-  - macOS Sonoma (14.x)
+  - Windows 10
 - Adobe Creative Cloud:
   - After Effects 2024 (버전 24.1~)
   - Premiere Pro 2024 (버전 24.0~)
   - Photoshop 2024 (버전 25.0~)
-- 하드웨어:
-  - Intel i7 / AMD Ryzen 7 이상
-  - RAM 32GB 이상
-  - GPU: NVIDIA RTX 3060 이상 또는 Apple M1 이상
-
 ---
 
 ## 🗣️ 참여 및 제보 방법
